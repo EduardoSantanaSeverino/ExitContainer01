@@ -8,4 +8,4 @@ docker run --rm testing
 #### Steps:
 1. Run the commands to execute.
 2. Run the loop.sh to test the duration. 
-3. Loop at the results. 
+3. Look at the results. 
